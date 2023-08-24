@@ -12,21 +12,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DarmorGamz/IoT-Weather-Monitoring-System">
-    <img src="images/icon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/DarmorGamz/Weather-Monitoring-System">
+    <img src="images/logo.png" alt="Logo" width="125" height="125">
   </a>
-
 <h3 align="center">Weather Monitoring System</h3>
 
   <p align="center">
     STM32 IoT based system to collect and transmit data over the internet. Hardware server to perform data analysis. Backend server to provide a front-facing API. Frontend server to present real-time data to clients(users).
     <br />
     <br />
-    <a href="https://github.com/DarmorGamz/IoT-Weather-Monitoring-System">View Demo</a>
+    <a href="https://github.com/DarmorGamz/Weather-Monitoring-System">View Demo</a>
     ·
-    <a href="https://github.com/DarmorGamz/IoT-Weather-Monitoring-System/issues">Report Bug</a>
+    <a href="https://github.com/DarmorGamz/Weather-Monitoring-System/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DarmorGamz/IoT-Weather-Monitoring-System/issues">Request Feature</a>
+    <a href="https://github.com/DarmorGamz/Weather-Monitoring-System/issues">Request Feature</a>
   </p>
 </div>
 
@@ -61,8 +60,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+![product-screenshot]
+![product-screenshot2]
 
 
 ### Built With
@@ -122,7 +121,7 @@ Distributed under the GPL License. See `LICENSE.txt` for more information.
 Darren Morrison - darren09@live.ca  
 Carter Glynn - carter.glynn14@gmail.com  
 
-Project Link: [https://github.com/DarmorGamz/IoT-Weather-Monitoring-System](https://github.com/DarmorGamz/IoT-Weather-Monitoring-System)
+Project Link: [https://github.com/DarmorGamz/Weather-Monitoring-System](https://github.com/DarmorGamz/Weather-Monitoring-System)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,19 +136,20 @@ Project Link: [https://github.com/DarmorGamz/IoT-Weather-Monitoring-System](http
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/DarmorGamz/IoT-Weather-Monitoring-System.svg?style=for-the-badge
-[contributors-url]: https://github.com/DarmorGamz/IoT-Weather-Monitoring-System/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DarmorGamz/IoT-Weather-Monitoring-System.svg?style=for-the-badge
-[forks-url]: https://github.com/DarmorGamz/IoT-Weather-Monitoring-System/network/members
-[stars-shield]: https://img.shields.io/github/stars/DarmorGamz/IoT-Weather-Monitoring-System.svg?style=for-the-badge
-[stars-url]: https://github.com/DarmorGamz/IoT-Weather-Monitoring-System/stargazers
-[issues-shield]: https://img.shields.io/github/issues/DarmorGamz/IoT-Weather-Monitoring-System.svg?style=for-the-badge
-[issues-url]: https://github.com/DarmorGamz/IoT-Weather-Monitoring-System/issues
-[license-shield]: https://img.shields.io/github/license/DarmorGamz/IoT-Weather-Monitoring-System.svg?style=for-the-badge
-[license-url]: https://github.com/DarmorGamz/IoT-Weather-Monitoring-System/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/DarmorGamz/Weather-Monitoring-System.svg?style=for-the-badge
+[contributors-url]: https://github.com/DarmorGamz/Weather-Monitoring-System/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DarmorGamz/Weather-Monitoring-System.svg?style=for-the-badge
+[forks-url]: https://github.com/DarmorGamz/Weather-Monitoring-System/network/members
+[stars-shield]: https://img.shields.io/github/stars/DarmorGamz/Weather-Monitoring-System.svg?style=for-the-badge
+[stars-url]: https://github.com/DarmorGamz/Weather-Monitoring-System/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DarmorGamz/Weather-Monitoring-System.svg?style=for-the-badge
+[issues-url]: https://github.com/DarmorGamz/Weather-Monitoring-System/issues
+[license-shield]: https://img.shields.io/github/license/DarmorGamz/Weather-Monitoring-System.svg?style=for-the-badge
+[license-url]: https://github.com/DarmorGamz/Weather-Monitoring-System/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/darren--morrison
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/ScreenshotExample1.png
+[product-screenshot2]: images/ScreenshotExample2.png
 
 [C.com]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
 [C-url]: https://www.cprogramming.com
